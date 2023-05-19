@@ -1,0 +1,19 @@
+
+{
+    "sign-in-with" : "Giriş yapma seçenekleri",
+    "github": "Github",
+    "google": "Google",
+    "sign-in-credentials": "Ya da bilgilerinizi doldurup kayıt olun",
+    "email": "Email",
+    "password": "Şifre",
+    "remember-me": "Beni hatırla",
+    "sign-in": "Giriş Yap",
+    "forgot-pw": "Şifremi unuttum",
+    "create-new-acc": "Yeni hesap oluştur",
+
+    "sign-up-with": "Kayıt olma seçenekleri",
+    "sign-up-credentials": "Ya da bilgilerinizi doldurup kayıt olun",
+    "name": "Kullanıcı Adı",
+    "privacy-policy": "I agree with the Privacy Policy",
+    "create-acc": "Hesabı oluştur"
+}
