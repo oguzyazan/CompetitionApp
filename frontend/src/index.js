@@ -8,6 +8,7 @@ import configureStore from "./redux/store";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
+import "./dist/output.css"
 import "./assets/styles/tailwind.css";
 import Main from "./layouts/Main";
 import Dashboard from "./containers/Main/Dashboard";
